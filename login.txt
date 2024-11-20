@@ -1,1 +1,2 @@
-Email and password
+Email & Password
+phone number & password
